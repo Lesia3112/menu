@@ -7,7 +7,7 @@
 .wrapper {
   /* max-height: 1200px; */
   /* height: 100vh; */
-  max-width: 780px;
+  max-width: 800px;
   width: 100%;
   margin: 0 auto;
   background-color: black;
@@ -33,7 +33,7 @@ img {
  
 }
 .link {
-  height: 150px;
+  height: 140px;
   width: 100%;
   background-color: peru;
   color: white;
