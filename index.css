@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  /* max-height: 1200px; */
+  /* height: 100vh; */
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: black;
+}
+
+
+
+.imageWrapper {
+  /* max-width: 800px; */
+  width: 100%;
+  /* height: 1000px; */
+  margin: 0 auto;
+  display: flex;
+  overflow: hidden;
+}
+
+img {
+  /* padding-top: -100px; */
+  width: 100%;
+}
+.imageMenu {
+  display: none;
+ 
+}
+.button {
+  height: 150px;
+  width: 100%;
+  background-color: peru;
+  color: white;
+  font-size: 80px;
+  font-weight: 600;
+  font-family: inter;
+  font-family: "Kanit", sans-serif;
+  cursor: pointer;
+}
+.show {
+  display: block;
+}
