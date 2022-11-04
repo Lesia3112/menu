@@ -42,6 +42,11 @@ img {
   font-family: inter;
   font-family: "Kanit", sans-serif;
   cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
 }
 .show {
   display: block;
